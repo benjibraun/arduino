@@ -5,7 +5,7 @@ void setup() {
 }
 void loop() {
   lcd.setCursor(0, 0);
-  lcd.print("I STAND WITH CEU"); // nem hadjuk! 
+  lcd.print("I STAND WITH CEU"); // nem hagyjuk! 
   lcd.setCursor(0, 1);
   lcd.print("  YBL TER 17:00  "); // A várkert bazár elött találkozunk 5-kor!
 }
